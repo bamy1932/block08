@@ -1,0 +1,27 @@
+.row1 {
+  width: 120px;
+  height: 120px;
+  border: 1px;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row2 {
+  width: 120px;
+  height: 120px;
+  border: 1px;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row3 {
+  width: 120px;
+  height: 120px;
+  border: 1px;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
